@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello! 👋
+
+### I am Avell or as some people call me (Avelis, Feddeddd, Backdoor, SoulX)
+
+- 🔭 I’m currently working on Avelis (https://avelis.dev)
+- 🌱 I’m currently learning C++ and Luau
+
+- 📫 How to reach me: [Email](mailto:aveldonson@tutamail.com) OR [Discord](https://discord.com/users/1336508009450442793)
 
 <!--
 **nonmex9-design/nonmex9-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
